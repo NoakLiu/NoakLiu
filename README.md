@@ -2,7 +2,7 @@
 
 **My Homepage**
 
-Welcome to [My Blog](https://noakliu.github.io).
+Welcome to [My Homepage](https://noakliu.github.io).
 
 **Intrduction**
 
@@ -23,9 +23,11 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 
 **Contact**
 
-- My email1: ldtenacity666@163.com
-- My email2: dliu9@nd.edu
-- My email3: ldtenacity@gmail.com
+- My email: 
+  - ldtenacity666@163.com
+  - dliu9@nd.edu
+  - ldtenacity@gmail.com
+
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
@@ -39,3 +41,4 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 <img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
+

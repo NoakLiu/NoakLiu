@@ -23,7 +23,8 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 
 **Contact**
 
-- My email: dliu9@nd.edu.
+- My email1: dliu9@nd.edu.
+- My email2: ldtenacity666@163.com
 
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
@@ -34,19 +35,7 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 <img alt="git" src="https://img.shields.io/badge/-Git-5c2223?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-GitHub-d13c74?style=flat-square&logo=github&logoColor=white" />
 <img alt="Windows Terminal" src="https://img.shields.io/badge/-Terminal-36292f?style=flat-square&logo=Windows Terminal&logoColor=white" />
-
 <img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
 
-
-
-
-<strong>Useful Links 📫</strong>
-<!-- [My Blog](https://noakliu.github.io) -->
-
-<p align="center">
- <a href="mailto:dliu9@nd.edu">
- <img src="https://img.shields.io/badge/-dliu9@nd.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dliu9@nd.edu">
-</a>
-</p>

@@ -39,11 +39,6 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
 
-<details><summary>More GitHub Info</summary>
-<img src="https://metrics.lecoq.io/noa?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
-</br>
-<img src="https://activity-graph.herokuapp.com/graph?username=noakliu&theme=green&hide_title=false"/>
-</details>
 
 
 

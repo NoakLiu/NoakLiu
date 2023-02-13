@@ -12,10 +12,10 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 
 **Projects Overview:**
 
-1. GNN ([Propagation-Topo-Diffusion-on-Graphs](https://github.com/NoakLiu/Propagation-Topo-Diffusion-on-Graphs), [Covid19-Knowledge-Graph-System](https://github.com/NoakLiu/Covid19-Knowledge-Graph-System))
+1. Graph Neural Network ([Propagation-Topo-Diffusion-on-Graphs](https://github.com/NoakLiu/Propagation-Topo-Diffusion-on-Graphs), [Covid19-Knowledge-Graph-System](https://github.com/NoakLiu/Covid19-Knowledge-Graph-System))
 2. Distributed Graph Processing System ([DGPS](https://github.com/NoakLiu/DGPS))
-3. Reinforcement Learning ([CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods))
-4. Natural Language Processing ([SCQA](https://github.com/NoakLiu/SCQA), [EN-ZH-NMT-seq2seq](https://github.com/Youth-49/EN-ZH-NMT-seq2seq))
+3. Natural Language Processing ([SCQA](https://github.com/NoakLiu/SCQA), [EN-ZH-NMT-seq2seq](https://github.com/Youth-49/EN-ZH-NMT-seq2seq), [POS Tagging]())
+4. Reinforcement Learning ([2eval-Word-Embedding-Generation](https://github.com/NoakLiu/2Evaluation-Word-Embedding-Generation), [CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods))
 5. Computer Vision ([Enhanced-Seam-Carving](https://github.com/NoakLiu/Enhanced-Seam-Carving))
 6. Algorithm ([Flow-Shop-Scheduling-Problem-Based-on-Simulated-Annealing-Algorithm](https://github.com/NoakLiu/Flow-Shop-Scheduling-Problem-Based-on-Simulated-Annealing-Algorithm))
 7. Distributed Processing System ([A-Distributed-Processing-Application-Based-on-Hadoop-and-Spark](https://github.com/NoakLiu/A-Distributed-Processing-Application-Based-on-Hadoop-and-Spark))

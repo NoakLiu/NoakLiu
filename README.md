@@ -12,7 +12,7 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 
 **Projects Overview:**
 
-1. Graph Neural Network ([Propagation-Topo-Diffusion-on-Graphs](https://github.com/NoakLiu/Propagation-Topo-Diffusion-on-Graphs), [Covid19-Knowledge-Graph-System](https://github.com/NoakLiu/Covid19-Knowledge-Graph-System))
+1. Graph Neural Network ([Propagation-Topo-Diffusion-on-Graphs](https://github.com/NoakLiu/Propagation-Topo-Diffusion-on-Graphs), [COVID-19-Knowledge-Graph-System](https://github.com/NoakLiu/Covid19-Knowledge-Graph-System))
 2. Distributed Graph Processing System ([DGPS](https://github.com/NoakLiu/DGPS), [Distributed Graph Processing Systems: Methodology, Implementation, Application](https://github.com/NoakLiu/Distributed-Graph-Processing-Systems-Methodology-Implementation-Application))
 3. Natural Language Processing ([SCQA](https://github.com/NoakLiu/SCQA), [EN-ZH-NMT-seq2seq](https://github.com/Youth-49/EN-ZH-NMT-seq2seq), [POS Tagging](https://github.com/NoakLiu/Harvard-sequential-data-analysis-and-natural-language-processing-seminar-presentation))
 4. Reinforcement Learning ([2eval-Word-Embedding-Generation](https://github.com/NoakLiu/2Evaluation-Word-Embedding-Generation), [CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods))
@@ -41,4 +41,3 @@ I’m currently working as a research assistant at [Peking University DAIR lab](
 <img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
-
